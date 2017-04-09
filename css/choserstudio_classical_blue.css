@@ -1,0 +1,234 @@
+
+/* ===================================
+	ORANGE COLORS
+====================================== */
+
+/* ===================================
+	BACKGROUND COLOR
+====================================== */
+.background-three {
+	background-color: #1088ff;
+}
+
+/* ===================================
+	HIGHLIGHT
+====================================== */
+span.clean-color-contras{
+	color: #1088ff;
+}
+
+/* ===================================
+	SOLID BUTTON
+====================================== */
+.clean-button-solid{
+	background-color: #1088ff;
+}
+
+.clean-button-solid:hover{
+	opacity: 0.7;
+}
+
+/* ===================================
+	OUTLINE BUTTON
+====================================== */
+.clean-button-outline-light:hover{
+	background-color: #1088ff
+}
+
+/* ===================================
+	DARK BUTTON
+====================================== */
+.clean-button-outline-dark:hover{
+	background-color: #1088ff;
+}
+
+/* ===================================
+	ROUND BTN
+====================================== */
+.clean-btn-round{
+	background-color: #1088ff;
+}
+
+.clean-btn-round:hover{
+	opacity: 0.7;
+}
+
+/* ===================================
+	ICON
+====================================== */
+.clean-blurb-icon-only i{
+	color: #1088ff;
+}
+
+.clean-blurb-icon-only h3{
+	color: #1088ff
+}
+
+/* ===================================
+	ROUND ICON
+====================================== */
+.clean-blurb-round-icon:hover .clean-icon{
+	background-color: #1088ff;
+}
+
+.clean-icones .clean-icon i {
+	color: #dadada;
+}
+
+.clean-blurb-round-icon:hover h3{
+	color: #1088ff;
+}
+
+/* ===================================
+	ICON SQUARE
+====================================== */
+.clean-icones:hover .clean-blurb-text h3{
+	color: #1088ff;
+}
+
+.clean-icones:hover .clean-blurb-text h3:after{
+	background-color: #1088ff;
+}
+
+.clean-icones .clean-blurb-text h3:after {
+	background-color: #1088ff;
+}
+
+.clean-icones .clean-icon:hover {
+	background-color: #1088ff;
+	border: none;
+	color: #fff;
+}
+
+.clean-icones .clean-icon:hover i{
+	background-color: #1088ff;
+	border: none;
+	color: #fff;
+}
+
+.clean-main-menu .navbar-nav li a:hover,
+.clean-main-menu .navbar-nav li.active a{
+    color: #1088ff;
+}
+
+.clean-slider .sp-selected-button {
+  	background-color: #1088ff;
+}
+
+.clean-member-details h3{
+	color: #1088ff;
+}
+
+.clean-line{
+	background-color: #1088ff;
+}
+
+.clean-counter-item h3:after {
+	background-color: #fff;
+}
+
+/* ===================================
+	FEATURED WORK
+====================================== */
+.clean-port-work-details .clean-port-work-desc p a:hover{
+	color: #1088ff;
+}
+
+.clean-port-work-details .clean-port-work-desc h3{
+	color: #1088ff;
+}
+
+.clean-recommended-pricing{
+	border: 6px solid #1088ff;
+}
+
+.recommended-titles {
+	background-color: #1088ff;
+}
+
+.clean-icones{
+	overflow: hidden;
+	padding: 20px;
+	border-bottom: 1px dotted #1088ff;
+}
+
+.clean-icones-center{
+	border-left: 1px dotted #1088ff;
+	border-right: 1px dotted #1088ff;
+}
+.clean-portfolio-work-item .clean-work-meta li{
+	background-color: #1088ff;
+}
+/* ===================================
+	PORTFOLIO
+====================================== */
+.clean-portfolio-filter-btn-group ul li a.selected{
+	color: #1088ff;
+}
+
+.clean-portfolio-filter-btn-group ul li a {
+	border-right: 1px dotted #1088ff;
+}
+
+/* ===================================
+	PRICING
+====================================== */
+.clean-pricing-plans .clean-pricing-titles h2{
+	color: #1088ff
+}
+
+.clean-pricing-plans {
+	border: 5px solid  #1088ff;
+}
+
+.clean-pricing-plans .clean-pricing-titles p span{
+	color: #1088ff;
+}
+
+/* ===================================
+	SIGN UP 
+====================================== */
+.clean-pricing-plans a.clean-signup-btn{
+	background-color: #1088ff;
+}
+
+.clean-pricing-plans a.clean-signup-btn:hover{
+	opacity: 0.7;
+}
+
+/* ===================================
+	CONTACT
+====================================== */
+.clean-contact-section .clean-contact-address ul li {
+	background-color: #1088ff;
+}
+
+.clean-contact-section .clean-contact-form input[type='submit']{
+	background-color: #1088ff;
+}
+
+.clean-contact-section .clean-contact-form input[type='submit']:hover{
+	opacity: 0.7;
+}
+
+.clean-find-us-btn h3{
+	color: #1088ff;
+}
+
+.clean-portfolio-information .clean-share-project ul li a:hover i{
+	color: #1088ff;
+}
+
+/* ===================================
+	OWL CAROUSEL 
+====================================== */
+.owl-theme .owl-controls .owl-page span {
+	background-color: #1088ff !important;
+}
+
+/* ===================================
+	FOOTER
+====================================== */
+footer ul li a:hover i{
+	color: #1088ff;
+}
