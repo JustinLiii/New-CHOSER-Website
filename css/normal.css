@@ -13,10 +13,8 @@
 }
 .top-bar{
 	background-color: #222222;
-	margin: -5px 0px 10px 0px;
+	margin: -10px -10px 10px -10px;
 	height: 70px;
-	border-bottom-right-radius: 10px;
-	border-bottom-left-radius: 10px;
 }
 p {
 	color: #FFFFFF;
